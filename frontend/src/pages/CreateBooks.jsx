@@ -69,6 +69,6 @@ const CreateBooks = () => {
       </div>
     </div>
   );
-};
+}
 
-export default CreateBooks;
+export default CreateBooks
